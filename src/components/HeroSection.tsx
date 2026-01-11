@@ -34,7 +34,7 @@ const HeroSection = () => {
           {/* Headline */}
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-primary-foreground leading-tight mb-6 animate-fade-in" style={{ animationDelay: "0.1s" }}>
             Outdoor Entertainment.{" "}
-            <span className="text-gradient-gold">Without the $8,000 Price Tag.</span>
+            <span className="text-gradient-gold">Without the AED 30,000 Price Tag.</span>
           </h1>
 
           {/* Subhead */}
@@ -55,7 +55,7 @@ const HeroSection = () => {
               className="animate-pulse-glow"
               onClick={() => window.open(WHATSAPP_LINK, "_blank")}
             >
-              Reserve Yours — $100 Deposit
+              Reserve Yours — AED 375 Deposit
             </Button>
             <Button
               variant="heroOutline"

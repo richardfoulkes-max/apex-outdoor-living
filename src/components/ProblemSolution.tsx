@@ -24,7 +24,7 @@ const ProblemSolution = () => {
                 "Heat damage destroys internals",
                 "Warranty void the moment it goes outside",
                 "Cheap covers trap heat — cook your TV",
-                "Premium outdoor TVs cost $8,000+"
+                "Premium outdoor TVs cost AED 30,000+"
               ].map((item, index) => (
                 <li key={index} className="flex items-start gap-3 text-foreground/80">
                   <span className="text-destructive font-bold mt-0.5">✕</span>

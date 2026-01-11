@@ -18,7 +18,7 @@ const FinalCTA = () => {
             Protect Your Entertainment Investment
           </h2>
           <p className="text-lg text-primary-foreground/80 mb-8">
-            $100 fully refundable deposit secures your spot. First 50 units ship Q2 2026.
+            AED 375 fully refundable deposit secures your spot. First 50 units ship Q2 2026.
           </p>
 
           {/* Guarantees */}
@@ -37,7 +37,7 @@ const FinalCTA = () => {
             className="animate-pulse-glow"
             onClick={() => window.open(WHATSAPP_LINK, "_blank")}
           >
-            Reserve Yours — $100 Deposit
+            Reserve Yours — AED 375 Deposit
           </Button>
 
           <p className="text-sm text-primary-foreground/60 mt-6">
