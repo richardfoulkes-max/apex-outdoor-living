@@ -4,9 +4,9 @@ const PremiumFinishes = () => {
   const colorOptions = [
     { name: "Jet Black", ral: "RAL 9005", color: "#0a0a0a", type: "Standard", price: null },
     { name: "Pebble Grey", ral: "RAL 7032", color: "#b8b4a8", type: "Standard", price: null },
-    { name: "Anthracite", ral: "RAL 7016", color: "#383e42", type: "Premium", price: "+$75" },
-    { name: "Sand Beige", ral: "RAL 1015", color: "#e6d4b3", type: "Premium", price: "+$75" },
-    { name: "Custom RAL", ral: "200+ colors", color: "linear-gradient(135deg, #d4a574 0%, #e85d04 50%, #1a1a2e 100%)", type: "Custom", price: "+$150" },
+    { name: "Anthracite", ral: "RAL 7016", color: "#383e42", type: "Premium", price: "+AED 275" },
+    { name: "Sand Beige", ral: "RAL 1015", color: "#e6d4b3", type: "Premium", price: "+AED 275" },
+    { name: "Custom RAL", ral: "200+ colors", color: "linear-gradient(135deg, #d4a574 0%, #e85d04 50%, #1a1a2e 100%)", type: "Custom", price: "+AED 550" },
   ];
 
   return (

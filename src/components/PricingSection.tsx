@@ -42,14 +42,14 @@ const PricingSection = () => {
               {/* Price Comparison */}
               <div className="text-center mb-8">
                 <div className="flex items-baseline justify-center gap-3 mb-2">
-                  <span className="text-5xl font-extrabold text-foreground">$2,200</span>
+                  <span className="text-5xl font-extrabold text-foreground">AED 8,100</span>
                 </div>
                 <p className="text-muted-foreground">
                   Compare: SunBrite 75"{" "}
-                  <span className="line-through text-destructive">$8,499</span>
+                  <span className="line-through text-destructive">AED 31,200</span>
                 </p>
                 <p className="text-sm text-accent font-semibold mt-2">
-                  Save over $6,000
+                  Save over AED 23,000
                 </p>
               </div>
 
@@ -82,7 +82,7 @@ const PricingSection = () => {
                   className="w-full animate-pulse-glow"
                   onClick={() => window.open(WHATSAPP_LINK, "_blank")}
                 >
-                  Reserve Now — $100 Deposit
+                  Reserve Now — AED 375 Deposit
                   <ArrowRight className="w-5 h-5" />
                 </Button>
                 <p className="text-center text-sm text-muted-foreground">

@@ -13,7 +13,7 @@ const StickyMobileCTA = () => {
           className="w-full"
           onClick={() => window.open(WHATSAPP_LINK, "_blank")}
         >
-          Reserve Now — $100 Deposit
+          Reserve Now — AED 375 Deposit
           <ArrowRight className="w-5 h-5" />
         </Button>
       </div>

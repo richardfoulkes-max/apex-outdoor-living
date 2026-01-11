@@ -17,7 +17,7 @@ const FAQSection = () => {
     },
     {
       question: "Is the deposit fully refundable?",
-      answer: "Yes, 100%. If you change your mind for any reason before your unit ships, we'll refund your $100 deposit in full. No questions asked.",
+      answer: "Yes, 100%. If you change your mind for any reason before your unit ships, we'll refund your AED 375 deposit in full. No questions asked.",
     },
     {
       question: "When will it ship?",
