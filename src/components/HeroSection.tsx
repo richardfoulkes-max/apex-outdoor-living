@@ -38,8 +38,13 @@ const HeroSection = () => {
           </h1>
 
           {/* Subhead */}
-          <p className="text-lg md:text-xl text-primary-foreground/80 mb-8 animate-fade-in" style={{ animationDelay: "0.2s" }}>
+          <p className="text-lg md:text-xl text-primary-foreground/80 mb-4 animate-fade-in" style={{ animationDelay: "0.2s" }}>
             IP55 weatherproof enclosure. Works with any TV. Built for Gulf summers.
+          </p>
+          
+          {/* Differentiator tagline */}
+          <p className="text-sm md:text-base text-accent font-semibold mb-8 animate-fade-in" style={{ animationDelay: "0.25s" }}>
+            The only outdoor enclosure engineered specifically for Gulf climate. Whisper-quiet. 5-year warranty.
           </p>
 
           {/* CTAs */}
