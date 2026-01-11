@@ -1,9 +1,14 @@
 import HeroSection from "@/components/HeroSection";
 import TrustBar from "@/components/TrustBar";
 import ProblemSolution from "@/components/ProblemSolution";
+import WhyApexComparison from "@/components/WhyApexComparison";
 import ProductShowcase from "@/components/ProductShowcase";
+import WhisperQuiet from "@/components/WhisperQuiet";
+import GulfEngineering from "@/components/GulfEngineering";
+import PremiumFinishes from "@/components/PremiumFinishes";
 import Benefits from "@/components/Benefits";
 import PricingSection from "@/components/PricingSection";
+import EuropeanManufacturing from "@/components/EuropeanManufacturing";
 import FAQSection from "@/components/FAQSection";
 import FinalCTA from "@/components/FinalCTA";
 import Footer from "@/components/Footer";
@@ -15,9 +20,14 @@ const Index = () => {
       <HeroSection />
       <TrustBar />
       <ProblemSolution />
+      <WhyApexComparison />
       <ProductShowcase />
+      <WhisperQuiet />
+      <GulfEngineering />
+      <PremiumFinishes />
       <Benefits />
       <PricingSection />
+      <EuropeanManufacturing />
       <FAQSection />
       <FinalCTA />
       <Footer />

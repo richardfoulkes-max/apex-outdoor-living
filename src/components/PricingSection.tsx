@@ -63,6 +63,17 @@ const PricingSection = () => {
                 ))}
               </div>
 
+              {/* Warranty Callout */}
+              <div className="bg-accent/10 border border-accent/30 rounded-xl p-4 mb-6">
+                <div className="flex items-start gap-3">
+                  <Check className="w-5 h-5 text-accent flex-shrink-0 mt-0.5" />
+                  <div>
+                    <span className="font-bold text-foreground">5-Year Warranty</span>
+                    <span className="text-sm text-muted-foreground"> — While others offer 12 months, we stand behind our engineering for 5 full years. That's confidence you can measure.</span>
+                  </div>
+                </div>
+              </div>
+
               {/* CTA */}
               <div className="space-y-4">
                 <Button
